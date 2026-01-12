@@ -126,6 +126,7 @@ pip install -r requirements.txt
 python Text_classifier.py
 
 📁 Project Structure
+
 text-classification-ardentix/
 │
 ├── data/
