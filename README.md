@@ -125,15 +125,6 @@ pip install -r requirements.txt
 2️⃣ Run the Program
 python Text_classifier.py
 
-📁 Project Structure
-
-text-classification-ardentix/
-│
-├── data/
-│   └── spam.csv
-├── Text_classifier.py
-├── requirements.txt
-└── README.md
 
 🚀 Conclusion
 
