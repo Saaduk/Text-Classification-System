@@ -1,7 +1,5 @@
 📄 Text Classification System
 
-AI/ML Engineer Intern – Technical Assignment (Ardentix)
-
 
 📌 Project Overview
 
@@ -134,4 +132,3 @@ This project demonstrates a complete text classification workflow using machine 
 👤 Author
 
 Saad Ullah Khan    
-AI/ML Engineer Intern Applicant – Ardentix
